@@ -1,4 +1,4 @@
-<?php namespace ChristianSchoenefeld\VueInternationalizationGenerator;
+<?php namespace CITEQ\VueInternationalizationGenerator;
 
 use DirectoryIterator;
 use Exception;

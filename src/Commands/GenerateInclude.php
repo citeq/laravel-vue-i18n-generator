@@ -1,8 +1,8 @@
-<?php namespace ChristianSchoenefeld\VueInternationalizationGenerator\Commands;
+<?php namespace CITEQ\VueInternationalizationGenerator\Commands;
 
 use Illuminate\Console\Command;
 
-use ChristianSchoenefeld\VueInternationalizationGenerator\Generator;
+use CITEQ\VueInternationalizationGenerator\Generator;
 
 class GenerateInclude extends Command
 {

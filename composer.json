@@ -1,9 +1,9 @@
 {
-    "name": "christian-schoenefeld/laravel-vue-i18n-generator",
+    "name": "citeq/laravel-vue-i18n-generator",
     "license": "MIT",
     "description": "Generates a vue-i18n compatible include file from your Laravel translations.",
     "keywords": ["laravel","vue-i18n"],
-    "homepage": "https://github.com/christian-schoenefeld/laravel-vue-i18n-generator",
+    "homepage": "https://github.com/citeq/laravel-vue-i18n-generator",
     "authors": [
         {
             "name": "Martin Lindhe",
@@ -26,13 +26,13 @@
     },
     "autoload": {
         "psr-4": {
-            "ChristianSchoenefeld\\VueInternationalizationGenerator\\": "src/"
+            "CITEQ\\VueInternationalizationGenerator\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "ChristianSchoenefeld\\VueInternationalizationGenerator\\GeneratorProvider"
+                "CITEQ\\VueInternationalizationGenerator\\GeneratorProvider"
             ]
         }
     }
